@@ -317,3 +317,8 @@
   width: 350px;
   height: 200px;
 }
+
+.max-width{
+    width: 70%;
+    height: auto;
+}
