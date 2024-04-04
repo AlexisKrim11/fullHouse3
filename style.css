@@ -325,6 +325,7 @@
 
   .cover{
     object-fit: scale-down;
+    align-items: center;
   }
 
   .img[class]{
