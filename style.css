@@ -322,3 +322,11 @@
     width: 600px;
     height: auto;
 }
+
+  .cover{
+    object-fit: scale-down;
+  }
+
+  .img[class]{
+    width: 100%;
+  } 
