@@ -331,3 +331,9 @@
   .img[class]{
     width: 100%;
   } 
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
